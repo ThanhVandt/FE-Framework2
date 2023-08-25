@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "John",
+      "soluong": 500,
+      "desc": "mô tả 1",
+      "xuatxu": "Trung Quốc"
+    },
+    {
+      "name": "sản phẩm 3",
+      "soluong": 499,
+      "xuatxu": "Việt Nam",
+      "desc": "miêu tả 6",
+      "id": 2
+    }
+  ]
+}
